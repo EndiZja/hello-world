@@ -1,2 +1,2 @@
 # hello-world
-I'm a begginer in this World, so wish me luck!
+I try to learn more about GitHub and I do the best I can.
